@@ -10,5 +10,8 @@ low_value = nil
 hash.each do |key, value| 
   
   if low_value == nil || value < low_value
+    low_value = value 
+    low_key = key 
+    
 
 end
