@@ -13,6 +13,8 @@ hash.each do |key, value|
     low_value = value 
     low_key = key 
   end 
-  
+end 
+
+low_key
 
 end
