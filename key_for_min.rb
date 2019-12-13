@@ -18,3 +18,5 @@ end
 low_key
 
 end
+
+key_for_min_value(hash)
